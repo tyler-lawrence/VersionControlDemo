@@ -7,6 +7,9 @@ You are currently reading a README. This is a file included in most repositories
 ## Workshop
 
 - clone this repository using https
-- make a new branch from one of the dev branches
+- checkout the branch for your workshop ( dev_[yy_mm_dd]_[am / pm] )
+- make a new branch from the workshop branch
 - make some changes to the project
+- commit changes
+- push changes
 - make a pull request
