@@ -8,6 +8,8 @@
 import SwiftUI
 
 struct View2: View {
+    let myVar = 1
+    
     var body: some View {
         Text("View2")
     }
