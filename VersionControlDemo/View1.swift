@@ -10,6 +10,7 @@ import SwiftUI
 struct View1: View {
     var body: some View {
         Text("riq's treats make me friq!")
+            .padding()
     }
 }
 
