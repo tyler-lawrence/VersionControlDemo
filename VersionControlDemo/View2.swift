@@ -7,9 +7,7 @@
 
 import SwiftUI
 
-struct View2: View {
-    let myVar = 1
-    
+struct View2: View {    
     var body: some View {
         Text("View2")
     }
