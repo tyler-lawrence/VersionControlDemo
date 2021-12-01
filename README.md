@@ -7,6 +7,6 @@ You are currently reading a README. This is a file included in most repositories
 ## Workshop
 
 - clone this repository using https
-- make a new branch
+- make a new branch from one of the dev branches
 - make some changes to the project
 - make a pull request
