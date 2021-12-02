@@ -9,7 +9,14 @@ import SwiftUI
 
 struct View3: View {
     var body: some View {
-        Text("View3")
+        VStack  {
+        Image("dog")
+            .resizable()
+            .scaledToFit()
+        Text("this is a dog")
+            .font(.title2)
+            .fontWeight(.semibold)
+        }
     }
 }
 
