@@ -9,7 +9,10 @@ import SwiftUI
 
 struct View2: View {    
     var body: some View {
-        Text("View2")
+        VStack {
+        Text("Goodbye World")
+            Image(systemName: "hand.wave.fill").font(.largeTitle).foregroundColor(.red)
+        }
     }
 }
 
