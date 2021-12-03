@@ -20,6 +20,7 @@ struct ContentView: View {
             View2()
                 .tabItem{
                     Label("View2", systemImage: "2.circle.fill")
+                        .font(.largeTitle)
                 }
             
             View3()
