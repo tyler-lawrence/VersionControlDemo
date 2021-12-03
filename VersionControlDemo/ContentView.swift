@@ -24,7 +24,8 @@ struct ContentView: View {
             
             View3()
                 .tabItem {
-                    Label("View3", systemImage: "3.circle.fill")
+                    Label("View3", systemImage: "sun.max.circle.fill")
+                       
                 }
              
         }
