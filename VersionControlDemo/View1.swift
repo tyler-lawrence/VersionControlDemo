@@ -9,7 +9,11 @@ import SwiftUI
 
 struct View1: View {
     var body: some View {
+        
+        // water theme
         Text("View1")
+            .foregroundColor(.blue)
+            .font(.largeTitle)
     }
 }
 
